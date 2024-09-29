@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.15780a34.css",
+    "main.js": "./static/js/main.cc13bf31.js",
+    "static/js/453.9c5b280e.chunk.js": "./static/js/453.9c5b280e.chunk.js",
+    "static/media/rulesSk.png": "./static/media/rulesSk.9945f24a90b02c2ad771.png",
+    "static/media/rules.png": "./static/media/rules.9e2ecf6218230cae6d77.png",
+    "index.html": "./index.html",
+    "main.15780a34.css.map": "./static/css/main.15780a34.css.map",
+    "main.cc13bf31.js.map": "./static/js/main.cc13bf31.js.map",
+    "453.9c5b280e.chunk.js.map": "./static/js/453.9c5b280e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15780a34.css",
+    "static/js/main.cc13bf31.js"
+  ]
+}
